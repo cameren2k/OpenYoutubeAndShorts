@@ -1,10 +1,12 @@
 # YoutubeExtensions
- appex extensions for sideloaded YT
+ OpenYoutubeAndShorts appex extension for sideloaded YT
  
  
  What is this?
  
  These plugins enable "Open In" for sideloaded Youtube without any need to download other Opener apps /Shortcuts.
+
+ UPDATE: Also works for YouTube Shorts now
  
  
  How to install: 

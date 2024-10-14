@@ -1,4 +1,4 @@
-# YoutubeExtensions
+# OpenYoutubeAndShorts
  OpenYoutubeAndShorts appex extension for sideloaded YT
  
  
